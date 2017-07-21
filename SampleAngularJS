@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Sample Angular JS</title>
-<script type="test/javascript" src= "https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js">
+<script type="test/javascript" src= "https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
 </head>
 
 <body>
