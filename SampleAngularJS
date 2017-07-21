@@ -7,7 +7,7 @@
 
 <body>
 <input type = "text" ng-model="valuetext" />
-Value = {{valuetext}}
+<h1>Hello {{ valuetext }}</h1>
 </body>
 
 </html>
